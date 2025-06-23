@@ -1,0 +1,4 @@
+colorama 
+pyperclip3
+hashlib
+requests
